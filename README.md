@@ -15,7 +15,7 @@ $python -m venv venv && . ./venv/bin/activate
 
 $git clone https://github.com/bkaanozsr1/TG_String_Session_Gen
 
-$cd stringsessiongen
+$cd TGStringSessionGen
 
 $ls
 
